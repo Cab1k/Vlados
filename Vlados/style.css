@@ -1,0 +1,107 @@
+body {
+  color: #170f49;
+  background-color: #ffffff;
+  font-size: 18px;
+}
+
+.header {
+  border: 0px solid black;
+  background-color: #ffffff;
+  border-radius: 18px;
+  text-align: center;
+  padding: 36px 441px 37px 440px;
+  font-size: 34px;
+  font-weight: 700;
+  margin: 50px 99px 0px 99px;
+  position: relative;
+  z-index: 2;
+}
+
+.main-text {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 46px;
+  text-align: center;
+  /* padding: 110px 281px 12px 281px; */
+}
+
+.text-post {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+}
+
+.main-section {
+  border: 0px solid black;
+  background-color: #eff0f6;
+  border-radius: 34px;
+  margin: 43px 370px 49px 370px;
+  text-align: left;
+  position: relative;
+  z-index: 2;
+}
+
+.contact-details {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 35px;
+  padding: 24px 433px 6px 64px;
+}
+
+.text-post-contact {
+  padding: 6px 136px 64px 64px;
+}
+
+.info {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  padding: 48px 528px 18px 18px;
+}
+
+.input {
+  border: 0;
+  border-radius: 46px;
+  /* width: 284px; */
+  /* height: 66px; */
+  padding: 18px 352px 48px 64px;
+}
+
+.Ellipse-rt {
+  display: block;
+  float: right;
+  margin: -50px 0px 0px 0px;
+  position: relative;
+  z-index: 0;
+}
+
+.Ellipse-lt {
+  display: block;
+  float: left;
+  margin: -50px 0px 0px 0px;
+  position: relative;
+  z-index: 0;
+}
+
+.Ellipse-ld {
+  display: block;
+  float: left;
+  margin: -450px 0px 0px 0px;
+  position: relative;
+  z-index: 0;
+}
+
+.Ellipse-rd {
+  display: block;
+  float: right;
+  margin: -450px 0px 0px 0px;
+  position: relative;
+  z-index: 0;
+}
+
+.button {
+}
+
+hr {
+}
