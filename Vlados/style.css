@@ -22,9 +22,7 @@ body {
   margin: 50px 99px 0px 99px;
   position: relative;
   z-index: 2;
-  box-shadow: 0px 12px 24px 0px #14142B0A;
-  
-  
+  box-shadow: 0px 12px 24px 0px #14142B0A; 
 }
 
 .header-text {
@@ -36,7 +34,6 @@ body {
   font-size: 34px;
   line-height: 46px;
   text-align: center;
-  /* padding: 110px 281px 12px 281px; */
 }
 
 .text-post {
@@ -51,7 +48,6 @@ body {
   border: 0px solid black;
   background-color: #eff0f6;
   border-radius: 34px;
-  /* margin: 43px 370px 49px 370px; */
   text-align: left;
   position: relative;
   z-index: 2;
@@ -65,23 +61,19 @@ body {
   font-weight: 700;
   font-size: 24px;
   line-height: 35px;
-  /* padding: 24px 433px 6px 64px; */
   text-align: center;
 }
 
 .text-post-contact {
   text-align: center;
   color: #6F6C90;
-  /* padding: 6px 136px 64px 64px; */
 }
 
 .info {
   font-weight: 500 bold;
   font-size: 18px;
   line-height: 20px;
-  margin-left: 40px;
-  
-  
+  margin-left: 40px;  
 }
 
 .input {
@@ -97,38 +89,6 @@ body {
   width: 284px;
   height: 66px;
 }
-
-/* .Ellipse-rt {
-  display: block;
-  float: right;
-  margin: -50px 0px 0px 0px;
-  position: absolute;
-  z-index: -1;
-}
-
-.Ellipse-lt {
-  display: block;
-  float: left;
-  margin: -50px 0px 0px 0px;
-  position: absolute;
-  z-index: -1;
-}
-
-.Ellipse-ld {
-  display: block;
-  float: left;
-  margin: -450px 0px 0px 0px;
-  position: absolute;
-  z-index: -1;
-}
-
-.Ellipse-rd {
-  display: block;
-  float: right;
-  margin: -250px 0px 0px 0px;
-  position: absolute;
-  z-index: -1;
-} */
 
 .button-next {
   border-radius: 56px;
